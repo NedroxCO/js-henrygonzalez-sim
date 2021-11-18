@@ -1,3 +1,13 @@
+/*
+¡IMPORTANTE!
+¡Hola, Facundo! Espero que hayas visto mi mensaje en Slack, si no lo viste, deberías verlo. Estuve hospitalizado hasta esta semana y no pude realizar los desafíos en forma, como debería ser. Actualizaré con commits este repositorio en cuanto pueda.
+*/
+
+
+
+
+
+
 /*CONVERSIÓN DE MONEDA*/
 
 let monto = prompt("Ingrese el valor a convertir");
